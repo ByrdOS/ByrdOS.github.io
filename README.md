@@ -1,5 +1,5 @@
 ByrdOS.github.io
 ================
 
-The host for ByrdOS
-[Check out our site for this](http://byrdos.github.io/ ":DD")
+The code for ByrdOS
+[Check out the site!](http://byrdos.github.io/ ":DD")

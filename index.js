@@ -1,8 +1,8 @@
-var beenhere=getCookie("beenhere");
+var been=document.cookie.valueOf("been");
 var Byrd={};
-if (beenhere==="") {
+if (been!=="here") {
 	alert("Welcome to ByrdOS!");
-    setCookie("beenhere", beenhere, 36500);
+    document.cookie="been=here; expires=1 Dec 2100 12:00:00 UTC";
 }
 else{
 	
